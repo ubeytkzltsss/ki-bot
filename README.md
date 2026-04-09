@@ -61,9 +61,7 @@
 ---
 
 <p align="center">
-<img width="236" height="235" alt="resim" src="https://github.com/user-attachments/assets/e913d8da-c3c1-42fd-afb8-b1c2d0350c5d" />
-<img width="1080" height="1080" alt="resim" src="https://github.com/user-attachments/assets/5cb45fd3-79fc-4e99-a3ac-8841c5c0d593" />
-
+<img width="100" height="99" alt="resim" src="https://github.com/user-attachments/assets/e913d8da-c3c1-42fd-afb8-b1c2d0350c5d" />
 </p>
 
 <p align="center">
