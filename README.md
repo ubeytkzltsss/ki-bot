@@ -61,7 +61,6 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=ki-bot&fontSize=90" />
 </p>
 
 <p align="center">
