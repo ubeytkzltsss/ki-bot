@@ -61,6 +61,7 @@
 ---
 
 <p align="center">
+<img width="236" height="235" alt="resim" src="https://github.com/user-attachments/assets/9e1a431c-c5de-4c90-ab03-7f9bb079861e" />
 </p>
 
 <p align="center">
